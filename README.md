@@ -1,4 +1,4 @@
-# Astack
+# astack
 
 Build better work. The same process discipline that lets one engineer ship like a team of twenty — for everything that isn't code.
 
@@ -61,7 +61,7 @@ This borrows heavily from [Gstack](https://github.com/garrytan/gstack) by Garry 
 
 That insight isn't specific to code. A marketer skips the brief and dives into the Google Doc. A founder drafts the investor update before deciding what story they're telling. A finance lead opens the spreadsheet before questioning the assumptions. Everyone does the same thing engineers used to do before Gstack — they reach for the tool before they've finished thinking.
 
-Shipstack applies the same process discipline to everything that isn't code: decks, emails, reports, proposals, analyses, announcements, plans, and everything in between.
+Astack applies the same process discipline to everything that isn't code: decks, emails, reports, proposals, analyses, announcements, plans, and everything in between.
 
 The skills adapt automatically based on what you're making. `/review` knows that a board deck needs accuracy and narrative checks while a Slack message needs tone and brevity checks. The process stays the same. The dimensions shift.
 
