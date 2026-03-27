@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "astack",
+      "description": "Build better work. Think sharper, create with quality, ship with confidence. A process chain inspired by Gstack — for everything that isn't code.",
+      "source": {
+        "source": "relative",
+        "path": ".."
+      }
+    }
+  ]
+}
